@@ -1,3 +1,5 @@
+
+cd client
 npm run dev
 # or
 yarn dev
@@ -5,3 +7,6 @@ yarn dev
 pnpm dev
 # or
 bun dev
+
+cd server
+npm run dev
